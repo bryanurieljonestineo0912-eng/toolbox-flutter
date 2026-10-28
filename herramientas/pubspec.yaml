@@ -1,0 +1,27 @@
+name: herramientas
+description: Caja de herramientas con consumo de APIs
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  url_launcher: ^6.3.0
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/images/foto.png
