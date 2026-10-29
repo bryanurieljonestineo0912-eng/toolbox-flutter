@@ -25,9 +25,9 @@ class Acerca extends StatelessWidget {
             const Text('Estudiante de Desarrollo de Software - ITLA'),
             const SizedBox(height: 15),
             // cambiar por mis datos reales
-            const Text('Correo: correo@ejemplo.com'),
-            const Text('Teléfono: +1 (809) 000-0000'),
-            const Text('GitHub: github.com/tu-usuario'),
+            const Text('Correo: bryanurieljonestineo0912@gmail.com'),
+            const Text('Teléfono: +1 (809) 479-4955'),
+            const Text('GitHub: github.com/bryanurieljonestineo0912-eng'),
           ],
         ),
       ),
